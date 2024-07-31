@@ -1,0 +1,8 @@
+[32mINFO    [0m root:Test_Login.py:45 Test case start
+[32mINFO    [0m root:Test_Login.py:47 opening browser
+[32mINFO    [0m root:Test_Login.py:50 click on logi link
+[32mINFO    [0m root:Test_Login.py:52 Enter Email id
+[32mINFO    [0m root:Test_Login.py:54 Enter password
+[32mINFO    [0m root:Test_Login.py:56 click on login button
+[32mINFO    [0m root:Test_Login.py:58 check login pass or fail
+[31mCRITICAL[0m root:Test_Login.py:68 login fail

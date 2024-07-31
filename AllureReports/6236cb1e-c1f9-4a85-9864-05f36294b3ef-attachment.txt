@@ -1,0 +1,7 @@
+[32mINFO    [0m root:Test_Login.py:20 open browser
+[32mINFO    [0m root:Test_Login.py:22 click on login
+[32mINFO    [0m root:Test_Login.py:24 enter email id
+[32mINFO    [0m root:Test_Login.py:26 enter password
+[32mINFO    [0m root:Test_Login.py:28 click on login button
+[32mINFO    [0m root:Test_Login.py:30 verify login
+[32mINFO    [0m root:Test_Login.py:34 login pass
